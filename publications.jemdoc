@@ -2,8 +2,11 @@
 == Publications 
 
 === Conference
+- A Modular Branch Predictor Performance Analysis Framework for Fast Design Space Exploration \n
+*Ya Wang*, Hanwei FAN, Sicheng Li, Tingyuan Liang and Wei ZHANG \n
+2024 Design, Automation and Test in Europe Conference (DATE), 2024.
 - [pubs/UCViT.pdf UCViT: Hardware-Friendly Vision Transformer via Unified Compression] \n
-H. Song*, Y. Wang*, M. Wang,and Z. Wang \n
+H. Song*, *Y. Wang**, M. Wang,and Z. Wang \n
 2022 IEEE International Symposium on Circuits and Systems (ISCAS), 2022.
 
 === Journal
