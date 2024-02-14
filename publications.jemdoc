@@ -2,8 +2,14 @@
 == Publications 
 
 === Conference
+- Explainable Fuzzy Neural Network with Multi-Fidelity Reinforcement Learning for Micro-Architecture Design Space Exploration \n
+H. Fan, *Y. Wang*, S. Li, T. Liang and W. Zhang \n
+2024 Design Automation Conference (DAC '24).\[Accepted\]
+- HSViT: A Hardware and Software Collaborative Design for Vision Transformer via Multi-level Compression \n
+H.Song, L.Xu, Y.Wang, M.Wang, Z.Wang \n
+2024 IEEE International Symposium on Circuits and Systems (ISCAS'24).\[Accepted\]
 - A Modular Branch Predictor Performance Analysis Framework for Fast Design Space Exploration \n
-*Y. Wang*, H. FAN, S. Li, T. Liang and W. Zhang \n
+*Y. Wang*, H. Fan, S. Li, T. Liang and W. Zhang \n
 2024 Design, Automation and Test in Europe Conference (DATE'24). \[Accepted\]
 - [https://ieeexplore.ieee.org/document/9937660 UCViT: Hardware-Friendly Vision Transformer via Unified Compression] \n
 H. Song\*, *Y. Wang\* *, M. Wang,and Z. Wang \n
