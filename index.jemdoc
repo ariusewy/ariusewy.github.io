@@ -7,12 +7,12 @@
 [https://hkust.edu.hk/ The Hong Kong University of Science and Technology]\n 
 Hong Kong SAR,China \n
 Email: ywangmu@connect.ust.hk \n
-\[[CV_24_3.pdf Curriculem Vitae]\] \[[https://github.com/ariusewy github]\] \[[https://www.kaggle.com/danaevan kaggle]\]\n
+\[[CV_24_3.pdf Curriculem Vitae]\] \[[https://github.com/ariusewy github]\] \[ https://scholar.google.com/citations?hl=en&user=CGoSjBUAAAAJ&inst=1381320739207392350 Google Scholar]\]\n
 ~~~
 
 
 == Biography
-I'm currently a second year PhD student in [https://eeweiz.home.ece.ust.hk/ Reconfigurable computing system laboratory (RCSL)] led by Prof. [https://ece.hkust.edu.hk/eeweiz Wei ZHANG] at the Department of Electronic & Computer Engineering in HKUST. 
+I'm currently a 3rd year PhD student in [https://eeweiz.home.ece.ust.hk/ Reconfigurable computing system laboratory (RCSL)] led by Prof. [https://ece.hkust.edu.hk/eeweiz Wei ZHANG] at the Department of Electronic & Computer Engineering in HKUST. 
 Previously, I obtained my Bachelor’s Degree at the Department of Electronic Science and Engineering, Nanjing University, where I was advised by Prof. Zhongfeng WANG in [https://icais-lab.github.io/index.html Lab of Integrated Circuits and Intelligent System (ICAIS)].
 
 == News
@@ -23,9 +23,10 @@ Previously, I obtained my Bachelor’s Degree at the Department of Electronic Sc
 - \[11/2023\] One paper "A Modular Branch Predictor Performance Analysis Framework for Fast Design Space Exploration" has been accepted by DATE 2024
 
 == Research Interests 
-- CPU Architecture Design and Modeling
+- CPU Architecture Design, Modeling & DSE
 - Hardware and Software co-design AI Accelerator
 - Design Space Exploration
+- Hardware Fuzzing Testing
 
 == Education 
 - P.h.D in Electronic & Computer Engineering,[https://hkust.edu.hk/ The Hong Kong University of Science and Technology], Sept. 2022 - Now
@@ -34,7 +35,7 @@ Previously, I obtained my Bachelor’s Degree at the Department of Electronic Sc
 #- MITxPro Program student, Massachusetts Institute of Technology, Jan. 2021 - Mar. 2021
 
 == Experiences
-- Alibaba DAMO Academy, Beijing, P.R. China, June. 2022 - Dec.2023 \n
+- Alibaba DAMO Academy, Beijing, P.R. China, June. 2022 - June.2024 \n
 Research Intern, Computing Technology Lab \n
 Topic: RISC-V CPU Performance Modeling
 
