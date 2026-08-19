@@ -7,7 +7,7 @@
 [https://hkust.edu.hk/ The Hong Kong University of Science and Technology]\n 
 Hong Kong SAR,China \n
 Email: ywangmu@connect.ust.hk \n
-\[[CV_24_3.pdf Curriculem Vitae]\] \[[https://github.com/ariusewy github]\] \[[https://scholar.google.com/citations?hl=en&user=CGoSjBUAAAAJ&inst=1381320739207392350 Google Scholar]\]\n
+\[[resume.pdf Curriculum Vitae]\] \[[https://github.com/ariusewy github]\] \[[https://scholar.google.com/citations?hl=en&user=CGoSjBUAAAAJ&inst=1381320739207392350 Google Scholar]\]\n
 ~~~
 
 
@@ -23,9 +23,10 @@ Previously, I obtained my Bachelor’s Degree at the Department of Electronic Sc
 - \[11/2023\] One paper "A Modular Branch Predictor Performance Analysis Framework for Fast Design Space Exploration" has been accepted by DATE 2024
 
 == Research Interests 
-- CPU Architecture Design, Modeling & DSE
-- Hardware and Software co-design AI Accelerator
-- Hardware Fuzzing Testing
+- CPU Architecture, Performance Analysis, Modeling & DSE
+- GPU/NPU Architecture & Workload-Driven Performance Modeling
+- AI Accelerator Architecture & Hardware-Software Co-Design
+- Processor & SoC Verification
 
 == Education 
 - P.h.D in Electronic & Computer Engineering,[https://hkust.edu.hk/ The Hong Kong University of Science and Technology], Sept. 2022 - Now
@@ -49,5 +50,4 @@ Topic: Automatic Generation Framework of Large Verification Samples for EDA tool
 == Student Helper
 - [https://fpt22.hkust.edu.hk/ International Conference on Field Programmable Technology 2022 (FPT’22)], Hong Kong SAR
 - [https://sites.google.com/view/ceda-hk/edathon-2023 EDAthon 2023], Hong Kong SAR
-
 
